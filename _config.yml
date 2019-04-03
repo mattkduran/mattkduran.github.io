@@ -1,4 +1,12 @@
 theme: jekyll-theme-minimal
+
 title: Matt's blog
-description: A place to keep things I don't want to google again.
+
+subtitle: A place to keep things I don't want to google again.
+
+name: Matt
+
+url: matdur.info
+
 show_downloads: false
+
