@@ -3,3 +3,6 @@ name: Matt's blog
 url: matdur.info
 show_downloads: false
 
+
+plugins:
+	- jekyll-sitemap
