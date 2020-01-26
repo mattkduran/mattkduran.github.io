@@ -1,3 +1,3 @@
-# mattdur.info
+# mattduran.info
 
 This is just a blog to document things I learn.
