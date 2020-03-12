@@ -1,8 +1,15 @@
-markdown: kramdown
-name: Matt's blog
-url: mattduran.info
-show_downloads: false
+# Example Site settings
 
+#google_analytics: UA-NNNNNNNN-N
+
+#header_pages:
+#  - index.md
+#  - about.md
+
+#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+
+#style: light # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
-  - jekyll-sitemap
+  - jekyll-seo-tag
