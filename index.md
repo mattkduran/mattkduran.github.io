@@ -1,5 +1,5 @@
 ---
-title: /Matt's Blog
+title: ~/Matt's Blog
 layout: home
 permalink: /
 ---
