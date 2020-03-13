@@ -2,6 +2,8 @@
 
 ## Usage
 
+Create a new post in the _posts directory and fill out the relevant YAML fields
+Make a 250x200 thumbnail and drop it in the thumbnails directory. List its filename in the post's markdown file.
 In addition to jekyll's default configuration options, you can provide:
 - `header_pages` to specify which pages should be displayed in navbar
 - `footer` string, which will be inserted on the end of the page (doesn't support markup, but html)
@@ -20,6 +22,7 @@ footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
 
 google_analytics: UA-NNNNNNNN-N
 ```
+
 
 ## License
 
